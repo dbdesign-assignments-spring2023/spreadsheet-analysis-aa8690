@@ -41,4 +41,15 @@ Here are links to the [original text file](https://github.com/dbdesign-assignmen
 
 ## Data Analysis
 
-The cleaned data was opened in Google Sheets, where I did analysis on it. 
+The cleaned data was opened in Google Sheets, where I did analysis on it. I calculated the average, median, minimum, and maximum for the salaries. The average was $4721.82. The median was $4353.00. The minimum was $1200.00, and the maximum was $14464.00. I then calculated the average and sum for people with arts degrees, which were $3845.62 and $10921563.47 respectively. I then calculated the minimum and maximum for people who had a full arts degree, which was $2018.00 and $9974.00 respectively. My pivot table shows the average salary based on whether an individual had an associates, assist., or full degree. It also shows the average based on if their degree level was not available, along with the total result. Here is the pivot table I created:
+
+|rank|	AVERAGE of salary|
+| ---------------------- | ---------------------- |
+|Assist|	3388.49682460474|
+|Assoc	|3976.50839102466|
+|Full	|5835.97778134839|
+|NA	|4970|
+|Total Result|	4721.82345265764|
+
+
+
