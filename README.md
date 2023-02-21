@@ -29,11 +29,9 @@ case   id gender   deg yrdeg field startyr year   rank admin    salary
 
 I had to clean up the data set to make it usable in a csv format, and I also removed unnecessary columns such as the "id" and "admin" columns. Here is some of the code work that shows how I cleaned up the data:
 
-for v in data:
+    for v in data:
+        data_list.append(v.split())
 
-    data_list.append(v.split())
-
-for v in range(len(data_list)):
-
-    del data_list[v][1] # removes "case" and "id"
-    del data_list[v][8] # removes "admin"
+    for v in range(len(data_list)):
+        del data_list[v][1] # removes "case" and "id"
+        del data_list[v][8] # removes "admin"
