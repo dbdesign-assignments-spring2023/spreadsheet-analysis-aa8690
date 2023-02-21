@@ -16,15 +16,15 @@ The dataset used for this project is from the [University of Washington](http://
 | 8 | 6 | M   PhD | 66 Other | 91 |   94 |  Full  |   0| 11840.000 | 
 | 9 | 6 | M   PhD | 66 Other | 91   | 95 |  Full  |   0| 12184.000 |
 | 10 | 7 | M   PhD | 70 Other | 71  |  76| Assist  |   0 | 1730.000 |
-| 11 | 7 | M   PhD | 70 Other   |    71 |  77 Assist  |   0|  1851.000 |
-| 12 | 7 | M   PhD | 70 Other  |    71 |  78 Assist   |  0 | 1981.000 |
-| 13 | 7 | M   PhD | 70 Other  |    71 |  79  Assoc |    0|  2237.000 |
-| 14 | 7 | M   PhD | 70 Other  |    71 |  80  Assoc |    0 | 2410.000 |
-| 15 | 7 | M   PhD | 70 Other  |    71 |  81  Assoc|     0 | 2639.000 |
-| 16 | 7 | M   PhD | 70 Other  |    71 |  82  Assoc  |   0 | 2639.000 |
-| 17 | 7 | M   PhD | 70 Other  |    71 |  83  Assoc  |   0 | 2784.000 |
-| 18 | 7 | M   PhD | 70 Other   |   71 |  84  Assoc  |   0 | 2973.000 |
-| 19 | 7 | M   PhD | 70 Other   |   71|   85  Assoc  |   0 | 2973.000 |
+| 11 | 7 | M   PhD | 70 Other   |    71 |  77 |Assist  |   0|  1851.000 |
+| 12 | 7 | M   PhD | 70 Other  |    71 |  78| Assist   |  0 | 1981.000 |
+| 13 | 7 | M   PhD | 70 Other  |    71 |  79 | Assoc |    0|  2237.000 |
+| 14 | 7 | M   PhD | 70 Other  |    71 |  80 | Assoc |    0 | 2410.000 |
+| 15 | 7 | M   PhD | 70 Other  |    71 |  81 | Assoc|     0 | 2639.000 |
+| 16 | 7 | M   PhD | 70 Other  |    71 |  82 | Assoc  |   0 | 2639.000 |
+| 17 | 7 | M   PhD | 70 Other  |    71 |  83 | Assoc  |   0 | 2784.000 |
+| 18 | 7 | M   PhD | 70 Other   |   71 |  84|  Assoc  |   0 | 2973.000 |
+| 19 | 7 | M   PhD | 70 Other   |   71|   85 | Assoc  |   0 | 2973.000 |
 
 ## Changes to the Data Set
 
