@@ -4,8 +4,9 @@
 
 The dataset used for this project is from the [University of Washington](http://courses.washington.edu/b517/Datasets/SalaryData.txt) and includes details about the salary of faculty members of the university. The original file was in a .txt format. Here is a sample of what the data looked like:
 
-|case|id|gender|deg|yrdeg|field|startyr|year|rank|admin|salary|
-    1    1      F Other    92 Other      95   95 Assist     0  6684.000
+| case | id | gender | deg | yrdeg | field | startyr | year | rank | admin | salary |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 1 | 1 | F | Other | 92 | Other | 95 | 95 | Assist | 0 | 6684.000 |
     2    2      M Other    91 Other      94   94 Assist     0  4743.000
     3    2      M Other    91 Other      94   95 Assist     0  4881.000
     4    4      M   PhD    96 Other      95   95 Assist     0  4231.000
