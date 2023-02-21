@@ -36,3 +36,5 @@ I had to clean up the data set to make it usable in a csv format, and I also rem
     for v in range(len(data_list)):
         del data_list[v][1] # removes "case" and "id"
         del data_list[v][8] # removes "admin"
+
+Here are links to the [original text file](https://github.com/dbdesign-assignments-spring2023/spreadsheet-analysis-aa8690/blob/main/data/salary_data.txt), [cleaned data](https://github.com/dbdesign-assignments-spring2023/spreadsheet-analysis-aa8690/blob/main/data/clean_data.csv), and [spreadsheet data](https://github.com/dbdesign-assignments-spring2023/spreadsheet-analysis-aa8690/blob/main/data/clean_data.xlsx). 
