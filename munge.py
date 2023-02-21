@@ -1,5 +1,3 @@
-# take out secondary genre and the first thing that is just a number
-
 result_data = []
 
 o = open("data/salary_data.txt","r")
